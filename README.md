@@ -1,40 +1,80 @@
-<h1>Hi, I'm Ashley </h1>
+# Hi 👋, I'm Ashley
 
-<h2>👨‍💻 IT Projects:</h2>
+💻 Information Technology Student  
+🚀 Passionate about Software Development, System Analysis & Problem Solving  
+🌍 Based in Zimbabwe
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+---
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/Ashleyzich/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/Ashleyzich/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/Ashleyzich/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Ashleyzich/Package-Delivery-Pathfinding-Algorithm)
+# 🛠 Tech Stack
 
-<h2> 🤳 Connect with me:</h2>
+### Languages & Technologies
+- C#
+- Python
+- SQL
+- HTML & CSS
+- JavaScript
+- .NET Framework
+- Windows Forms
 
-[<img align="left" alt="AshleyZichawo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ashleyzichawo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AshleyZichawo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ashley.zich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Areas of Interest
+- Desktop Application Development
+- Information Systems
+- Data Structures & Algorithms
+- Database Management
+- UML & System Design
 
-[twitter]: https://twitter.com/ashleyzichawo
-[youtube]: https://www.youtube.com/c/ashleyzichawo
-[instagram]: https://www.instagram.com/ashley.zich/
-[linkedin]: https://linkedin.com/in/ashleyzich
+---
 
-<!--
-**ashleyzich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📂 Featured Projects
 
-Here are some ideas to get you started:
+## 🏫 School Management System
+A desktop-based management system for handling:
+- Student records
+- Teacher management
+- User authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies Used:**  
+C#, Windows Forms, SQL Server
+
+---
+
+## 🏠 Hostel Management System
+
+
+**Technologies Used:**  
+HTML, CSS, JavaScript, MySql, PHP
+
+---
+
+
+## 🎬 Video Streaming Application
+A systems analysis and design project involving:
+- UML diagrams
+- Use case diagrams
+- Data flow diagrams
+- System architecture planning
+
+---
+
+## 🧠 Data Structures & Algorithms Practice
+Practicing problem-solving and algorithm implementation using Python.
+
+---
+# 📈 Currently Learning
+- Advanced C#
+- Web Development
+- System Design
+- Software Engineering Practices
+
+---
+
+# 🌐 Connect With Me
+
+- 📧 Email: ashleyzichawo@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/ashley-zichawo- 1bb939339
+
+---
+
+# ⚡ Fun Fact
+I enjoy building systems that solve real-world problems and improve efficiency.
