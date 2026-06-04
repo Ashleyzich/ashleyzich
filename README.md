@@ -18,6 +18,8 @@
 - Windows Forms
 
 ### Areas of Interest
+- Web Applications
+- Software development
 - Desktop Application Development
 - Information Systems
 - Data Structures & Algorithms
@@ -47,22 +49,11 @@ HTML, CSS, JavaScript, MySql, PHP
 
 ---
 
-
-## 🎬 Video Streaming Application
-A systems analysis and design project involving:
-- UML diagrams
-- Use case diagrams
-- Data flow diagrams
-- System architecture planning
-
----
-
 ## 🧠 Data Structures & Algorithms Practice
 Practicing problem-solving and algorithm implementation using Python.
 
 ---
 # 📈 Currently Learning
-- Advanced C#
 - Web Development
 - System Design
 - Software Engineering Practices
