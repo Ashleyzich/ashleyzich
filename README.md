@@ -41,7 +41,7 @@ C#, Windows Forms, SQL Server
 
 ---
 
-## 🏠 Hostel Management System
+## 🏠 Hostel Mainataince Portal
 
 
 **Technologies Used:**  
